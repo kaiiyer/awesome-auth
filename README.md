@@ -52,6 +52,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 ### <a name="authN-node"></a>Node.js
 
 - [Passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js. A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
+- [OAuth 2.0 for Client-side Web Applications](https://developers.google.com/identity/protocols/OAuth2UserAgent) - Implement OAuth 2.0 authorization to access Google APIs from a JavaScript web application. An application can use OAuth 2.0 to obtain permission from users to store files in their Google Drives. 
 
 ### <a name="authN-python"></a>Python
 
